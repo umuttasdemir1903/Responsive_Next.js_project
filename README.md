@@ -4,4 +4,4 @@
 
 Screen View
 
-<img scr="./Next.js-project.gif">
+![](/public/Next.js-project.gif)
